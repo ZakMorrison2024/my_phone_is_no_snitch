@@ -12,7 +12,7 @@
 
 - Deletes all files in specified directories upon incorrect code entry.
 - Integrates with **Termux** for execution and customization.
-- Optional automation using **Tasker** to trigger the script upon specific events, like unlock attempts.
+- Automation using **Tasker** to trigger the script upon specific events, like unlock attempts.
 - Lightweight and simple to configure.
 
 ---
