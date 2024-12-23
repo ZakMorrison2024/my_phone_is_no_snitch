@@ -4,7 +4,7 @@
 
 **My Phone is No Snitch** is a script designed to enhance personal privacy by deleting all files from specific directories on your Android device when a secret unlock code is entered. It works alongside **Termux** and **Tasker** to integrate functionality with the Android lock screen.
 
-> ⚠️ **WARNING**: This script is destructive by design. Ensure you understand its behavior and use it responsibly. Accidental activation will result in loss of files.
+> ⚠️ **WARNING**: This script is destructive by design. Ensure you understand its behaviour and use it responsibly. Accidental activation will result in loss of files.
 
 ---
 
