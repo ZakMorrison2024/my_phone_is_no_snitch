@@ -1,6 +1,6 @@
 # My Phone is No Snitch
 
-### This is for fun ... nothing else ... 
+### This is for fun ... nothing else ... I've recently been exploring secuirty with both potential hackers and government in mind.
 
 ## Overview
 
