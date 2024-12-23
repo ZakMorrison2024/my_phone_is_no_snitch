@@ -55,7 +55,7 @@
 ### 4. Test the Script
    - In Termux, run:
      ```bash
-     python delete_files.py
+     python anti_snitch.py
      ```
    - Enter the unlock code to test behavior.
 
@@ -70,7 +70,7 @@
 ### 2. Add a Task to Run the Script
    - In the new profile, add a task with the following steps:
      1. **Action**: **Run Shell**
-        - Command: `python /data/data/com.termux/files/home/delete_files.py`
+        - Command: `python /data/data/com.termux/files/home/anti_snitch.py`
         - Enable **Use Root** (if root access is needed).
 
 ### 3. Test the Task
