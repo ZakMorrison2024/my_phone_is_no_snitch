@@ -1,0 +1,18 @@
+All Require Tasker and Terminux
+
+Jolt: (Lockscreen)
+pkg install termux-api
+
+Data Monitor: (ROOT)
+
+pkg install usbutils
+Make it executable:
+chmod +x data_transfer.sh
+Run the script with root privileges:
+su -c ./data_transfer.sh
+
+GPS:
+
+pkg install termux-api
+termux-location
+pip install requests
